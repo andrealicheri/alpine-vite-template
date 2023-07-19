@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "alpine": "^0.2.1",
+    "alpinejs": "^3.12.3",
     "typescript": "^5.0.2",
     "vite": "^4.4.0"
   },
