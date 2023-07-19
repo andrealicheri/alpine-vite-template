@@ -10,11 +10,11 @@
   },
   "devDependencies": {
     "alpinejs": "^3.12.3",
+    "htmx.org": "^1.9.3",
     "typescript": "^5.0.2",
     "vite": "^4.4.0"
   },
   "dependencies": {
-    "@picocss/pico": "^1.5.10",
-    "htmx": "^0.0.2"
+    "@picocss/pico": "^1.5.10"
   }
 }
