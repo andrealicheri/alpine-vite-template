@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./",
+        "paths": {
+            "@ts/*": ["src/ts/*"],
+            "@public/*": ["public/*"],
+            "@styles/*": ["src/styles/*"]
+        }
+    }
+}

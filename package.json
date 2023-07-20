@@ -25,6 +25,7 @@
     "vite-plugin-pwa": "^0.16.4"
   },
   "dependencies": {
+    "@alpinejs/persist": "^3.12.3",
     "@picocss/pico": "^1.5.10"
   }
 }
