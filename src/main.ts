@@ -5,3 +5,4 @@ Also note that main.ts is imported with a defer attribute in the index file.*/
 import "@picocss/pico/css/pico.min.css"
 import "../src/ts/alpine.ts"
 import "htmx.org"
+import "iconify-icon"
